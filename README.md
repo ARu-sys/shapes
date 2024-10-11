@@ -18,20 +18,20 @@
             height: 150px;
             background-color: blue;
             position: absolute;
-            top: 20px;
-            left: 20px;
+            top: 25px;
+            left: 25px;
         }
 
         /* Circle styles */
         .circle {
-            width: 100px;
-            height: 100px;
+            width: 150px;
+            height: 150px;
             background-color: yellow;
             border: 5px solid red; /* Add a red border */
             border-radius: 50%; /* Makes it a circle */
             position: absolute;
-            top: 40px;
-            left: 60px;
+            top: 0;
+            left: 50px;
         }
     </style>
 </head>
